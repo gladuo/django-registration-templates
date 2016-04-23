@@ -1,0 +1,3 @@
+{% load i18n %}
+{% load staticfiles %}
+{% trans "Account activation on" %} {{ site.name }}
